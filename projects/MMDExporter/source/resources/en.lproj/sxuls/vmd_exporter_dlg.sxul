@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialog default_button="false" id="vmd_export_dialog" title="MMD Motion (VMD) Export">
+	<group id="100" label="">
+		<float id="101" label="Scale:" default="0.01" />
+	</group>
+
+	<group id="200" label="Human Settings">
+		<bool id="201" label="Auto Bone Name Conversion" />
+	</group>
+</dialog>

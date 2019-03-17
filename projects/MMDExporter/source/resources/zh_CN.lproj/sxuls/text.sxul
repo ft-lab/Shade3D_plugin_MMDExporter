@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string id="product_name" value="MMD Converter"/>
+	<string id="author" value="Yutaka Yoshisaka"/>
+	<string id="company" value="ft-lab"/>
+	<string id="comments" value="MMD Converter"/>
+
+	<string id="title" value="MMD Converter"/>
+	<string id="pmd_exporter_title" value="MMD Model (PMD) ..."/>
+	<string id="vmd_exporter_title" value="MMD Motion (VMD) ..."/>
+
+	<string id="pmd_comment" value="Model for Shade 3D" />
+
+	<string id="msg_select_polygonmesh" value="Plese select polygonmesh." />
+	<string id="msg_skin_vertex_blend" value="Please edit skin in Vertex Blending mode" />
+	<string id="msg_mesh_triangle_65535" value="Number of faces (in trangle count) in polygonmesh must be less than or equal 65535." />
+	<string id="msg_mesh_vertex_65535" value="Number of vertices in polygonmesh must be less than or equal 65535." />
+	<string id="msg_mesh_bone_500" value="Number of bones must be less than or equal 500." />
+
+	<string id="msg_finish_export" value="Export success." />
+
+</strings>

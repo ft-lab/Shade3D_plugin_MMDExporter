@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<strings>
+	<string id="product_name" value="MMD Converter"/>
+	<string id="author" value="Yutaka Yoshisaka"/>
+	<string id="company" value="ft-lab"/>
+	<string id="comments" value="MMD Converter"/>
+
+	<string id="title" value="MMD Converter"/>
+	<string id="pmd_exporter_title" value="MMD Model (PMD) ..."/>
+	<string id="vmd_exporter_title" value="MMD Motion (VMD) ..."/>
+
+	<string id="pmd_comment" value="Model for Shade 3D" />
+
+	<string id="msg_select_polygonmesh" value="出力するポリゴンメッシュ形状を選択してください。" />
+	<string id="msg_skin_vertex_blend" value="スキンは頂点ブレンドで行うようにしてください。" />
+	<string id="msg_mesh_triangle_65535" value="ポリゴンメッシュは、65535三角形以下である必要があります。" />
+	<string id="msg_mesh_vertex_65535" value="ポリゴンメッシュは、65535頂点以下である必要があります。" />
+	<string id="msg_mesh_bone_500" value="ボーン数は、500以下である必要があります。" />
+
+	<string id="msg_finish_export" value="出力しました。" />
+</strings>

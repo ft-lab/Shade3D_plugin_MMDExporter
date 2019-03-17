@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialog default_button="false" id="pmd_export_dialog" title="MMD Model (PMD) Export">
+	<group id="100" label="">
+		<float id="101" label="Scale:" default="0.01" />
+	</group>
+
+	<group id="200" label="Bone">
+		<bool id="201" label="Move Center Bone Only" />
+	</group>
+
+	<group id="300" label="Toon">
+		<bool id="301" label="Enable Edge" />
+	</group>
+
+	<group id="400" label="Human Settings">
+		<bool id="401" label="Auto Bone Name Conversion" />
+		<bool id="402" label="Auto IK" />
+	</group>
+
+	<group id="500" label="Note">
+		<long-text id="501" label="Japanese:" default="" editable="false" lines="1" short_text="true" />
+		<long-text id="502" label="" editable="true" lines="3" />
+		<long-text id="503" label="English:" default="" editable="false" lines="1" short_text="true" />
+		<long-text id="504" label="" editable="true" lines="3" />
+	</group>
+</dialog>

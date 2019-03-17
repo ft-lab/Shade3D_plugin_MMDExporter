@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialog default_button="false" id="pmd_export_dialog" title="MMDモデル(PMD) エクスポート">
+	<group id="100" label="">
+		<float id="101" label="スケール:" default="0.01" />
+	</group>
+
+	<group id="200" label="ボーン">
+		<bool id="201" label="センターボーンのみ移動可能" />
+	</group>
+
+	<group id="300" label="トゥーン">
+		<bool id="301" label="エッジ有効" />
+	</group>
+
+	<group id="400" label="人体設定">
+		<bool id="401" label="ボーン名の自動変換" />
+		<bool id="402" label="IK自動割り当て" />
+	</group>
+
+	<group id="500" label="説明文">
+		<long-text id="501" label="日本語:" default="" editable="false" lines="1" short_text="true" />
+		<long-text id="502" label="" editable="true" lines="3" />
+		<long-text id="503" label="英語:" default="" editable="false" lines="1" short_text="true" />
+		<long-text id="504" label="" editable="true" lines="3" />
+	</group>
+
+</dialog>

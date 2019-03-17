@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<dialog default_button="false" id="vmd_export_dialog" title="MMDモーション(VMD) エクスポート">
+	<group id="100" label="">
+		<float id="101" label="スケール:" default="0.01" />
+	</group>
+
+	<group id="200" label="人体設定">
+		<bool id="201" label="ボーン名の自動変換" />
+	</group>
+</dialog>
